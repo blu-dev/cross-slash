@@ -1,0 +1,3 @@
+[workspace]
+members = [ "arc-dump","arc-reader"]
+
